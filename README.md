@@ -255,23 +255,104 @@ A database-driven restaurant management project built with Laravel and supportin
 
 ## 🎯 Career Focus
 
-I am working toward becoming a **skilled Software Engineer** with strong foundations in:
+<div align="center">
 
-```text
-Programming
-     ↓
-Data Structures & Algorithms
-     ↓
-Problem Solving
-     ↓
-Web & Backend Development
-     ↓
-Databases
-     ↓
-Software Engineering
-```
+### 💻 Aspiring Software Engineer
 
-My goal is to build reliable, useful, and real-world software while continuously improving my technical and problem-solving abilities.
+**Building strong fundamentals today to create reliable software tomorrow. 🚀**
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="16%">
+
+### 01
+
+💻
+
+**Programming**
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center" width="16%">
+
+### 02
+
+🧠
+
+**DSA**
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center" width="16%">
+
+### 03
+
+🧩
+
+**Problem Solving**
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center" width="16%">
+
+### 04
+
+🌐
+
+**Web & Backend**
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center" width="16%">
+
+### 05
+
+🗄️
+
+**Databases**
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center" width="16%">
+
+### 06
+
+⚙️
+
+**Software Engineering**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+> **Learn → Build → Solve → Improve → Engineer**
+
+<br>
+
+I am focused on developing the **technical knowledge, problem-solving skills, and practical experience** needed to become a skilled Software Engineer.
+
+My goal is to build **reliable, useful, and real-world software** while continuously learning and improving.
+
+</div>
+
 
 ---
 
