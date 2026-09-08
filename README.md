@@ -1,10 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm **Om Sagarka**
+# 👋 Hi, I'm Om Sagarka
 
-### 💻 Computer Engineering Student
-
-### 🚀 Aspiring Software Engineer
+### 💻 Computer Engineering Student · Aspiring Software Engineer
 
 <p>
   <a href="https://github.com/omsagarka07">
@@ -14,16 +12,16 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://omsagarka07.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
 </p>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=omsagarka07&label=Profile%20Views&style=flat-square" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/omsagarka07?label=Followers&style=flat-square" alt="Followers">
+  <img src="https://img.shields.io/github/followers/omsagarka07?label=Followers&style=flat-square" alt="GitHub Followers">
 </p>
 
-### `Learn` → `Build` → `Solve` → `Improve` → `Repeat` 🚀
+**`Learn` · `Build` · `Improve` · `Repeat` 🚀**
 
 </div>
 
@@ -31,25 +29,24 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Engineering student** interested in building practical software and continuously improving my technical skills.
+I am a **Computer Engineering student** focused on building strong foundations in programming, software development, databases, and problem solving.
 
-My current focus is on **programming, problem solving, web development, backend development, databases, and software engineering fundamentals.**
+I enjoy learning through practical development, building web applications, and continuously improving my technical skills.
 
 * 🎓 Computer Engineering Student
 * 🔄 Diploma-to-Degree Student
-* 💻 Aspiring Software Engineer
+* 💻 Interested in Software Engineering & Application Development
 * 🌐 Interested in Web & Full-Stack Development
-* ⚙️ Interested in Backend Development
 * 🐍 Currently improving Python
-* 🧠 Strengthening DSA & Problem Solving
-* 🗄️ Learning Database Systems
-* 🚀 Learning through practical projects
+* 🧠 Strengthening Data Structures & Algorithms
+* 🗄️ Learning Database Management
+* 🚀 Focused on building practical software projects
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming
+### 💻 Programming Languages
 
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
@@ -75,7 +72,7 @@ My current focus is on **programming, problem solving, web development, backend 
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 </p>
 
-### 🔧 Tools
+### 🔧 Tools & Platforms
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
@@ -86,19 +83,36 @@ My current focus is on **programming, problem solving, web development, backend 
 
 ### 🧠 Core Concepts
 
-`DSA` · `OOP` · `Problem Solving` · `Database Management` · `Responsive Design` · `Computer Networks`
+`Data Structures & Algorithms` · `OOP` · `Problem Solving` · `Database Management` · `Responsive Design` · `Computer Networks`
 
 ---
 
 ## 📚 Currently Learning
 
-### 🐍 Programming & Problem Solving
+<table>
+<tr>
+<td width="50%">
 
-`Python` · `Data Structures` · `Algorithms` · `Problem Solving`
+### 🐍 Programming
 
-### ⚙️ Software Development
+* Python
+* Data Structures
+* Algorithms
+* Problem Solving
 
-`Backend Development` · `Databases` · `Full-Stack Development` · `Software Engineering`
+</td>
+<td width="50%">
+
+### ⚙️ Development
+
+* Backend Development
+* Databases
+* Full-Stack Development
+* Software Engineering
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -106,31 +120,31 @@ My current focus is on **programming, problem solving, web development, backend 
 
 ### 🌐 Web Design Intern
 
-**Technologies**
+Worked on responsive web interfaces using:
 
 `HTML` · `CSS` · `JavaScript` · `Bootstrap`
 
-**Worked On**
+**Focus Areas**
 
-* Responsive web interfaces
-* Frontend development
-* UI implementation
-* Cross-device layouts
+* Responsive Web Design
+* Frontend Development
+* UI Implementation
+* Cross-Device Layouts
 
 ---
 
 ### ⚙️ Laravel Developer Intern
 
-**Technologies**
+Worked with web applications using:
 
 `PHP` · `Laravel` · `MySQL`
 
-**Worked On**
+**Focus Areas**
 
-* Backend development
-* Database integration
-* Web applications
-* Frontend & backend integration
+* Backend Development
+* Database Integration
+* Web Application Development
+* Frontend & Backend Integration
 
 ---
 
@@ -140,7 +154,7 @@ My current focus is on **programming, problem solving, web development, backend 
 
 **Personal Portfolio Website**
 
-A personal website showcasing my profile, skills, education, experience, projects, and contact information.
+A personal portfolio website showcasing my profile, skills, education, experience, projects, and contact information.
 
 **Tech:** `HTML`
 
@@ -159,7 +173,7 @@ A personal website showcasing my profile, skills, education, experience, project
 
 **Modern Responsive Cafe Website**
 
-A responsive cafe website focused on a clean interface and user-friendly experience.
+A responsive cafe website focused on a clean and user-friendly interface.
 
 **Tech:** `HTML` · `CSS` · `JavaScript` · `Bootstrap`
 
@@ -189,9 +203,7 @@ A simple cafe website designed with a clean and modern interface.
 
 ### 📱 Mobile-shoping
 
-**Web-Based Shopping Project**
-
-A web project focused on creating a simple shopping interface.
+A web project available on my GitHub profile.
 
 **Tech:** `HTML`
 
@@ -207,7 +219,7 @@ A web project focused on creating a simple shopping interface.
 
 **Restaurant Management Web Application**
 
-A database-driven restaurant management application built with Laravel and supporting web technologies.
+A database-driven restaurant management project built with Laravel and supporting web technologies.
 
 **Tech:** `Laravel` · `PHP` · `MySQL` · `HTML` · `CSS` · `JavaScript` · `Bootstrap`
 
@@ -221,7 +233,7 @@ A database-driven restaurant management application built with Laravel and suppo
 
 ## 🎓 Education
 
-### 🎓 B.E. Computer Engineering
+### 🎓 B.E. in Computer Engineering
 
 **Dr. V. R. Godhaniya College of Engineering & Technology, Porbandar**
 
@@ -241,83 +253,106 @@ A database-driven restaurant management application built with Laravel and suppo
 
 ---
 
-## 🎯 Career Roadmap
+## 🎯 Career Focus
 
 <div align="center">
 
 ### 💻 Aspiring Software Engineer
 
-**Building strong fundamentals and practical development skills.**
-
-<br>
-
-`01 Programming`
-↓
-`02 DSA`
-↓
-`03 Problem Solving`
-↓
-`04 Web & Backend`
-↓
-`05 Databases`
-↓
-`06 Software Engineering`
-
-<br>
-
-### 🚀 Learn → Build → Solve → Improve → Engineer
+**Building strong fundamentals today to create reliable software tomorrow. 🚀**
 
 </div>
 
----
+<br>
 
-## 💡 What I Focus On
+<table align="center">
+<tr>
+<td align="center" width="16%">
 
-### 💻 Code
+### 01
 
-Writing clean, readable, and understandable code.
+💻
 
-### 🧠 Learn
+**Programming**
 
-Strengthening programming and software engineering fundamentals.
+</td>
 
-### 🚀 Build
+<td align="center">→</td>
 
-Turning concepts and ideas into practical projects.
+<td align="center" width="16%">
 
-### 🧩 Solve
+### 02
 
-Improving logical thinking and problem-solving skills.
+🧠
 
-### 📈 Improve
+**DSA**
 
-Learning continuously and becoming a better developer.
+</td>
 
----
+<td align="center">→</td>
 
-## 🧩 Development Philosophy
+<td align="center" width="16%">
+
+### 03
+
+🧩
+
+**Problem Solving**
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center" width="16%">
+
+### 04
+
+🌐
+
+**Web & Backend**
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center" width="16%">
+
+### 05
+
+🗄️
+
+**Databases**
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center" width="16%">
+
+### 06
+
+⚙️
+
+**Software Engineering**
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <div align="center">
 
-### **Learn the Fundamentals**
-
-### ↓
-
-### **Build Practical Projects**
-
-### ↓
-
-### **Solve Real Problems**
-
-### ↓
-
-### **Keep Improving**
+> **Learn → Build → Solve → Improve → Engineer**
 
 <br>
 
-**Strong fundamentals + practical experience + continuous learning**
+I am focused on developing the **technical knowledge, problem-solving skills, and practical experience** needed to become a skilled Software Engineer.
+
+My goal is to build **reliable, useful, and real-world software** while continuously learning and improving.
 
 </div>
+
 
 ---
 
@@ -331,7 +366,7 @@ Learning continuously and becoming a better developer.
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omsagarka07&theme=tokyonight" width="49%" alt="GitHub Statistics">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omsagarka07&theme=tokyonight" width="49%" alt="Repositories Per Language">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omsagarka07&theme=tokyonight" width="49%" alt="Top Languages">
 
 </div>
 
@@ -347,39 +382,20 @@ Learning continuously and becoming a better developer.
 
 ---
 
-## 📌 Quick Profile
-
-**🎓 Education**
-Computer Engineering · Diploma-to-Degree
-
-**💻 Primary Focus**
-Software Development · Web · Backend · Databases
-
-**🧠 Currently Improving**
-Python · DSA · Algorithms · Problem Solving
-
-**🚀 Career Goal**
-Aspiring Software Engineer
-
-**📈 Development Approach**
-Learn → Build → Solve → Improve
-
----
-
-## 🌐 Connect With Me
+## 🌐 Find Me Online
 
 <div align="center">
 
-<a href="https://github.com/omsagarka07">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<a href="https://omsagarka07.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-0A66C2?style=for-the-badge" alt="Portfolio">
 </a>
 
 <a href="https://www.linkedin.com/in/om-sagarka/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<a href="https://omsagarka07.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+<a href="https://github.com/omsagarka07">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 </div>
@@ -388,14 +404,12 @@ Learn → Build → Solve → Improve
 
 <div align="center">
 
-### 🚀 Learn · Build · Solve · Improve · Repeat
+### 🚀 Learn · Build · Improve · Repeat
 
-**Thanks for visiting my GitHub profile! 👋**
-
-⭐ **Feel free to explore my repositories and projects.**
-
-<br>
-
-**© Om Sagarka**
+**Thanks for visiting my profile!**
 
 </div>
+
+
+more best look dekhava ma saru proper best design all cover best look 
+more add
