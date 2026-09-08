@@ -1,366 +1,235 @@
-# 👋 Hi, I'm Om Sagarka
+# Hi, I'm Om Sagarka 👋
 
-### 💻 Computer Engineering Student | Aspiring Software Developer
+### Computer Engineering Student | Aspiring Software Developer
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=omsagarka07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <a href="https://github.com/omsagarka07">
+    <img src="https://komarev.com/ghpvc/?username=omsagarka07&label=Profile%20Views&style=flat" alt="Profile Views"/>
+  </a>
 </p>
 
-I am a **Computer Engineering student** interested in software development, programming, web development, databases, and problem solving.
+I am a **Computer Engineering student** with an interest in **software development, Python, web development, databases, and problem solving**.
 
-I enjoy learning new technologies, building practical projects, and improving my development skills through hands-on practice.
+I enjoy learning by building projects and improving my programming skills through practical development. I am currently focused on strengthening my fundamentals and growing toward a career in **Software Engineering**.
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-* 🎓 Pursuing **B.E. in Computer Engineering**
-* 🔄 Studying through **Diploma-to-Degree**
+* 🎓 B.E. Computer Engineering — **Diploma-to-Degree**
 * 🏫 **Dr. V. R. Godhaniya College of Engineering & Technology, Porbandar**
-* 📚 Completed **Diploma in Computer Engineering**
-* 🏛️ **Government Polytechnic, Porbandar**
+* 📚 Diploma in Computer Engineering — **Government Polytechnic, Porbandar**
 * ⭐ Diploma CGPA: **8.35**
 * 📅 Diploma completed in **2026**
-* 📍 Gujarat, India
-* 💻 Interested in **Software Development**
-* 🐍 Learning and practicing **Python**
-* 🌐 Interested in **Web Development**
-* 🧠 Interested in **Data Structures & Algorithms**
-* 🗄️ Interested in **Database Management**
-* 🚀 Focused on continuous learning and practical development
+* 💻 Interested in Software Development
+* 🐍 Learning Python and strengthening programming fundamentals
+* 🧠 Learning Data Structures & Algorithms
+* 🌐 Building responsive web projects
+* 🗄️ Exploring databases and backend development
+* 🚀 Interested in real-world software development
 
 ---
 
-# 🛠️ Technical Skills
+# Tech Stack
 
-## 💻 Programming Languages
+### Programming
 
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
 </p>
 
-* C Programming
-* C++ Programming
-* Python
-* PHP
-* Object-Oriented Programming
-* Programming Fundamentals
-
----
-
-## 🌐 Frontend Development
+### Web Development
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
 </p>
 
-* HTML5
-* CSS3
-* JavaScript
-* Bootstrap
-* Responsive Design
-* Frontend Development
-* Web Design
-* UI Design
-
----
-
-## ⚙️ Backend Development
+### Backend & Database
 
 <p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 </p>
 
-* PHP
-* Laravel
-* Backend Development
-* Web Application Development
-* Database Integration
-* Full-Stack Development
+### Concepts
 
----
-
-## 🗄️ Database
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-* SQL
-* MySQL
-* MongoDB
-* Database Management
-* Database Integration
-* CRUD Operations
-
----
-
-## 🧠 Data Structures & Problem Solving
-
-* Data Structures
-* Algorithms
-* Arrays
-* Strings
-* Searching
-* Sorting
+* Data Structures & Algorithms
 * Object-Oriented Programming
 * Problem Solving
-* Logical Thinking
-* Basic Time & Space Complexity
-
----
-
-## 🌐 Computer Networks
-
+* Database Management
+* Responsive Web Design
 * Computer Networks
 * TCP/IP
 * OSI Model
 * IP Addressing
-* Network Protocols
-* Basic Networking Concepts
-
----
-
-## 📱 Android Development
-
-* Android Application Development
-* Mobile Application Development
-* Mobile UI
-* Basic Application Development Concepts
-
----
-
-## 🤖 IoT
-
 * IoT Fundamentals
-* Internet of Things Concepts
-* Connected Devices
-* Basic IoT Concepts
+* Android Development Fundamentals
 
----
-
-## 🔧 Tools & Technologies
+### Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 </p>
 
-* Git
-* GitHub
-* Visual Studio Code
-* Linux
-* Version Control
+---
+
+# Experience
+
+### Web Design Intern
+
+Worked on responsive and user-friendly web interfaces using:
+
+`HTML` `CSS` `JavaScript` `Bootstrap`
+
+Focused on frontend development, responsive layouts, and practical web design.
+
+### Laravel Developer Intern
+
+Worked with backend and database-driven web application development using:
+
+`PHP` `Laravel` `MySQL`
+
+Focused on backend functionality, database integration, and web application development.
 
 ---
 
-# 💼 Internship Experience
+# Featured Projects
 
-## 🌐 Web Design Intern
+> A selection of repositories currently available on my GitHub profile.
 
-During my Web Design Internship, I gained practical experience in creating **responsive and user-friendly websites**.
-
-### Areas of Work
-
-* Website layout development
-* Responsive web design
-* Frontend development
-* HTML and CSS
-* JavaScript
-* Bootstrap
-* User interface design
-
-### Technologies
-
-`HTML` `CSS` `JavaScript` `Bootstrap` `Responsive Design`
-
----
-
-## ⚙️ Laravel Developer Intern
-
-During my Laravel Developer Internship, I gained practical experience in **backend development, database integration, and web application development**.
-
-### Areas of Work
-
-* PHP development
-* Laravel development
-* Backend functionality
-* MySQL database integration
-* Web application development
-* Frontend and backend integration
-
-### Technologies
-
-`PHP` `Laravel` `MySQL` `HTML` `CSS` `JavaScript`
-
----
-
-# 🚀 My Projects
-
-These are the repositories currently featured on my GitHub profile.
-
-## 🌐 1. Portfolio
+### 🌐 Portfolio
 
 **My Personal Portfolio**
 
 A personal portfolio website showcasing my profile, skills, education, experience, projects, and contact information.
 
-**Technology:** `HTML`
+**Tech:** `HTML`
 
-🔗 **GitHub Repository:**
-https://github.com/omsagarka07/Portfolio
-
-🌐 **Live Portfolio:**
-https://omsagarka07.github.io/Portfolio/
+[View Repository →](https://github.com/omsagarka07/Portfolio)
+[Live Portfolio →](https://omsagarka07.github.io/Portfolio/)
 
 ---
 
-## ☕ 2. Cafe-Aurora
+### ☕ Cafe-Aurora
 
-**Cafe Aurora — Modern Responsive Cafe Website**
+**Modern Responsive Cafe Website**
 
-A modern responsive cafe website built using frontend web technologies.
+A responsive cafe website built using frontend web technologies.
 
-**Technologies:**
+**Tech:** `HTML` `CSS` `JavaScript` `Bootstrap`
 
-`HTML` `CSS` `JavaScript` `Bootstrap`
-
-🔗 **GitHub Repository:**
-https://github.com/omsagarka07/Cafe-Aurora
+[View Repository →](https://github.com/omsagarka07/Cafe-Aurora)
 
 ---
 
-## 🌙 3. The Moonlit Cafe
+### 🌙 The Moonlit Cafe
 
-**The Moonlit Cafe — Modern & Elegant Cafe Website**
+**Modern & Elegant Cafe Website**
 
-A modern and elegant cafe website with a responsive design and user-friendly interface.
+A cafe website project focused on a modern and elegant web interface.
 
-**Technology:** `HTML`
+**Tech:** `HTML`
 
-🔗 **GitHub Repository:**
-https://github.com/omsagarka07/the-moonlit-cafe
-
----
-
-## 📱 4. Mobile-shoping
-
-A mobile shopping related web project available on my GitHub profile.
-
-**Technology:** `HTML`
-
-🔗 **GitHub Repository:**
-https://github.com/omsagarka07/Mobile-shoping
+[View Repository →](https://github.com/omsagarka07/the-moonlit-cafe)
 
 ---
 
-## 🍽️ 5. Rangoli Restaurant Management System
+### 📱 Mobile-shoping
 
-A full-stack **Restaurant Management System** built using Laravel, PHP, MySQL, HTML, CSS, JavaScript, and Bootstrap.
+A web project available on my GitHub profile.
 
-**Technologies:**
+**Tech:** `HTML`
 
-`Laravel` `PHP` `MySQL` `HTML` `CSS` `JavaScript` `Bootstrap`
-
-🔗 **GitHub Repository:**
-https://github.com/omsagarka07/Rangoli-Restaurant-Management-System
+[View Repository →](https://github.com/omsagarka07/Mobile-shoping)
 
 ---
 
-# 📚 Currently Learning
+### 🍽️ Rangoli Restaurant Management System
 
-### 🐍 Python Development
+A full-stack restaurant management project built using Laravel and related web technologies.
 
-Improving Python programming and developing stronger programming fundamentals.
+**Tech:** `Laravel` `PHP` `MySQL` `HTML` `CSS` `JavaScript` `Bootstrap`
 
-### 🧠 Data Structures & Algorithms
-
-Learning data structures, algorithms, complexity, and problem-solving techniques.
-
-### 🌐 Web Development
-
-Improving frontend, backend, responsive design, and full-stack development skills.
-
-### ⚙️ Backend Development
-
-Learning backend architecture, server-side programming, and database integration.
-
-### 🗄️ Database Management
-
-Improving SQL, MySQL, MongoDB, and database management knowledge.
-
-### 💻 Software Engineering
-
-Learning better development practices and improving project-building skills.
-
-### 🤖 Data Science & AI
-
-Exploring the fundamentals of data science, data analysis, and artificial intelligence.
+[View Repository →](https://github.com/omsagarka07/Rangoli-Restaurant-Management-System)
 
 ---
 
-# 🎓 Education
+# Currently Learning
 
-## 🎓 B.E. in Computer Engineering
+```text
+Python
+  ↓
+Data Structures & Algorithms
+  ↓
+Backend Development
+  ↓
+Database Management
+  ↓
+Full-Stack Development
+  ↓
+Software Engineering
+```
+
+Currently, my main focus is on:
+
+* 🐍 Python Programming
+* 🧠 Data Structures & Algorithms
+* 🌐 Full-Stack Web Development
+* ⚙️ Backend Development
+* 🗄️ SQL & Database Management
+* 💻 Software Engineering
+* 🤖 Exploring Data Science & AI
+
+---
+
+# Education
+
+### B.E. Computer Engineering
 
 **Dr. V. R. Godhaniya College of Engineering & Technology, Porbandar**
 
 **2026 – Present**
 
-**Program:** Diploma-to-Degree
+Diploma-to-Degree Program
 
----
-
-## 📚 Diploma in Computer Engineering
+### Diploma in Computer Engineering
 
 **Government Polytechnic, Porbandar**
 
-**Completed:** 2026
+**Completed – 2026**
 
-**CGPA:** 8.35
-
----
-
-# 🎯 Career Goals
-
-My goal is to become a **skilled Software Engineer** with strong programming and problem-solving abilities.
-
-### My Focus Areas
-
-* 🐍 Python Development
-* 💻 Software Engineering
-* 🧠 Data Structures & Algorithms
-* 🌐 Web Development
-* ⚙️ Backend Development
-* 🗄️ Database Management
-* 🤖 Data Science & AI
-* 🚀 Real-World Projects
-* 🌱 Continuous Learning
-
-I want to continuously improve my technical skills and use technology to build practical solutions for real-world problems.
+**CGPA: 8.35**
 
 ---
 
-# 📊 GitHub Statistics
+# Career Goal
+
+My goal is to become a **strong Software Engineer** with solid programming, problem-solving, and development skills.
+
+I am working toward building a strong foundation in:
+
+**Programming → DSA → Development → Databases → Software Engineering**
+
+In the long term, I want to work on meaningful software products and solve real-world problems through technology.
+
+---
+
+# GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omsagarka07&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omsagarka07&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=omsagarka07&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omsagarka07&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
-
----
-
-# 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=omsagarka07&theme=tokyonight&hide_border=true"/>
@@ -368,83 +237,35 @@ I want to continuously improve my technical skills and use technology to build p
 
 ---
 
-# 📈 GitHub Activity
+# Connect With Me
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omsagarka07&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
-
----
-
-# 🌐 Portfolio
-
-<p align="center">
-  <a href="https://omsagarka07.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-</p>
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
+<p align="left">
 
 <a href="https://github.com/omsagarka07">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/om-sagarka/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:omsagaraka5050@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
-### 📫 Contact
-
-* 💻 GitHub: https://github.com/omsagarka07
-* 💼 LinkedIn: https://www.linkedin.com/in/om-sagarka/
-* 🌐 Portfolio: https://omsagarka07.github.io/Portfolio/
-* 📧 Email: [omsagaraka5050@gmail.com](mailto:omsagaraka5050@gmail.com)
-
----
-
-# 🧩 My Development Mindset
-
-```text
-Learn
-  ↓
-Practice
-  ↓
-Build
-  ↓
-Debug
-  ↓
-Improve
-  ↓
-Repeat 🔁
-```
-
-I believe that **consistent learning, practical development, and problem solving** are the key to becoming a better developer.
+* 🌐 **Portfolio:** https://omsagarka07.github.io/Portfolio/
+* 💼 **LinkedIn:** https://www.linkedin.com/in/om-sagarka/
+* 💻 **GitHub:** https://github.com/omsagarka07
+* 📧 **Email:** [omsagaraka5050@gmail.com](mailto:omsagaraka5050@gmail.com)
 
 ---
 
 <p align="center">
 
-### 💻 Computer Engineering Student
+### Learn • Build • Improve • Repeat 🚀
 
-### 🐍 Python Developer
-
-### 🌐 Web Developer & Designer
-
-**Learn • Build • Improve • Repeat 🚀**
-
-⭐ Thanks for visiting my GitHub profile!
-
-**© 2026 Om Sagarka**
+**Thanks for visiting my profile!**
 
 </p>
