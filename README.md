@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/github/followers/omsagarka07?label=Followers&style=flat-square" alt="GitHub Followers">
 </p>
 
-### `Learn` · `Build` · `Improve` · `Repeat` 🚀
+**`Learn` · `Build` · `Improve` · `Repeat` 🚀**
 
 </div>
 
@@ -31,13 +31,13 @@
 
 I am a **Computer Engineering student** focused on building strong foundations in programming, software development, databases, and problem solving.
 
-I enjoy learning through practical development and building web applications while continuously improving my technical skills.
+I enjoy learning through practical development, building web applications, and continuously improving my technical skills.
 
-* 🎓 Computer Engineering student
-* 🔄 Diploma-to-Degree student
+* 🎓 Computer Engineering Student
+* 🔄 Diploma-to-Degree Student
 * 💻 Interested in Software Engineering & Application Development
 * 🌐 Interested in Web & Full-Stack Development
-* 🐍 Currently improving my Python skills
+* 🐍 Currently improving Python
 * 🧠 Strengthening Data Structures & Algorithms
 * 🗄️ Learning Database Management
 * 🚀 Focused on building practical software projects
@@ -46,7 +46,7 @@ I enjoy learning through practical development and building web applications whi
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming
+### 💻 Programming Languages
 
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
@@ -64,7 +64,7 @@ I enjoy learning through practical development and building web applications whi
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </p>
 
-### ⚙️ Backend & Database
+### ⚙️ Backend & Databases
 
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
@@ -72,7 +72,7 @@ I enjoy learning through practical development and building web applications whi
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 </p>
 
-### 🔧 Tools
+### 🔧 Tools & Platforms
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
@@ -126,10 +126,10 @@ Worked on responsive web interfaces using:
 
 **Focus Areas**
 
-* Responsive web design
-* Frontend development
-* UI implementation
-* Cross-device layouts
+* Responsive Web Design
+* Frontend Development
+* UI Implementation
+* Cross-Device Layouts
 
 ---
 
@@ -141,10 +141,10 @@ Worked with web applications using:
 
 **Focus Areas**
 
-* Backend development
-* Database integration
-* Web application development
-* Frontend & backend integration
+* Backend Development
+* Database Integration
+* Web Application Development
+* Frontend & Backend Integration
 
 ---
 
@@ -271,7 +271,7 @@ Databases
 Software Engineering
 ```
 
-My long-term goal is to build reliable, useful, and real-world software while continuously improving my technical and problem-solving abilities.
+My goal is to build reliable, useful, and real-world software while continuously improving my technical and problem-solving abilities.
 
 ---
 
@@ -279,27 +279,23 @@ My long-term goal is to build reliable, useful, and real-world software while co
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=omsagarka07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub Stats">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omsagarka07&theme=tokyonight" width="100%" alt="GitHub Profile Details">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omsagarka07&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages">
+<br><br>
 
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omsagarka07&theme=tokyonight" width="49%" alt="GitHub Statistics">
 
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=omsagarka07&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omsagarka07&theme=tokyonight" width="49%" alt="Top Languages">
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=omsagarka07&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph">
+<img src="https://streak-stats.demolab.com?user=omsagarka07&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak">
 
 </div>
 
