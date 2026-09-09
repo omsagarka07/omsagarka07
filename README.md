@@ -4,7 +4,7 @@
 
 ### 💻 Computer Engineering Student | Aspiring Software Engineer
 
-<p>
+<p>``
   <b>Building • Learning • Solving • Improving</b>
 </p>
 
