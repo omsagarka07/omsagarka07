@@ -188,97 +188,82 @@ I am **Om Sagarka**, a Computer Engineering student passionate about **Software 
 
 ---
 
-# 🚀 Featured Projects
-
-<div align="center">
+## 🚀 Featured Projects
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-## 🌐 Portfolio Website
+### 🌐 Portfolio Website
 
-Personal portfolio website showcasing my skills, projects and development journey.
+Personal portfolio website showcasing my skills, projects, education, and experience.
 
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript` `Bootstrap`
-
-<br>
+**Tech:** HTML • CSS • JavaScript • Bootstrap
 
 <a href="https://github.com/omsagarka07/Portfolio">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="Portfolio Repository"/>
+<img src="https://img.shields.io/badge/💻%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
 <a href="https://omsagarka07.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Live%20Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Live Demo"/>
+<img src="https://img.shields.io/badge/🌐%20Live%20Demo-0A66C2?style=for-the-badge">
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-## ☕ Cafe Aurora
+### ☕ Cafe Aurora
 
-A responsive cafe website designed with a modern interface and responsive layout.
+Modern and responsive cafe website with a clean and attractive user interface.
 
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript` `Bootstrap`
-
-<br>
+**Tech:** HTML • CSS • JavaScript
 
 <a href="https://github.com/omsagarka07/Cafe-Aurora">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="Cafe Aurora Repository"/>
+<img src="https://img.shields.io/badge/💻%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://omsagarka07.github.io/Cafe-Aurora/">
+<img src="https://img.shields.io/badge/🌐%20Live%20Demo-0A66C2?style=for-the-badge">
 </a>
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
-## 🌙 The Moonlit Cafe
+### 🌙 The Moonlit Cafe
 
-A modern cafe-themed website focused on responsive design and user experience.
+Elegant cafe website designed with a modern layout and responsive design.
 
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript` `Bootstrap`
-
-<br>
+**Tech:** HTML • CSS • JavaScript
 
 <a href="https://github.com/omsagarka07/the-moonlit-cafe">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="The Moonlit Cafe Repository"/>
+<img src="https://img.shields.io/badge/💻%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://omsagarka07.github.io/the-moonlit-cafe/">
+<img src="https://img.shields.io/badge/🌐%20Live%20Demo-0A66C2?style=for-the-badge">
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 📱 Mobile Shopping
+### 📱 Mobile Shopping
 
-A shopping website project created to practice frontend development and responsive layouts.
+Responsive mobile shopping website focused on clean UI and user-friendly design.
 
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript` `Bootstrap`
-
-<br>
+**Tech:** HTML • CSS • JavaScript • Bootstrap
 
 <a href="https://github.com/omsagarka07/Mobile-shoping">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="Mobile Shopping Repository"/>
+<img src="https://img.shields.io/badge/💻%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://omsagarka07.github.io/Mobile-shoping/">
+<img src="https://img.shields.io/badge/🌐%20Live%20Demo-0A66C2?style=for-the-badge">
 </a>
 
 </td>
-
 </tr>
 </table>
 
-</div>
 
 ---
 
