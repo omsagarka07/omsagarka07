@@ -6,10 +6,22 @@
 
 **Building • Learning • Growing 🚀**
 
-[LinkedIn](https://www.linkedin.com/in/om-sagarka/) •
-[Portfolio](https://omsagarka07.github.io/Portfolio/) •
-[GitHub](https://github.com/omsagarka07) •
-[Email](mailto:omsagaraka5050@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=omsagarka07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+
+<br>
+
+<a href="https://github.com/omsagarka07">
+  <img src="https://img.shields.io/badge/GitHub-omsagarka07-181717?style=for-the-badge&logo=github" alt="GitHub">
+</a>
+<a href="https://www.linkedin.com/in/om-sagarka/">
+  <img src="https://img.shields.io/badge/LinkedIn-Om%20Sagarka-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+</a>
+<a href="https://omsagarka07.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+</a>
+<a href="mailto:omsagaraka5050@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 
 </div>
 
@@ -17,84 +29,156 @@
 
 ## 👨‍💻 About Me
 
-I am **Om Sagarka**, a Computer Engineering student passionate about software development, backend development, and problem solving.
+I am **Om Sagarka**, a Computer Engineering student passionate about **Software Development, Backend Development, Full-Stack Development, and Problem Solving**.
 
-* 🎓 B.E. Computer Engineering — 2026–Present
-* 💻 Diploma in Computer Engineering — CGPA: **8.35**
+* 🎓 B.E. Computer Engineering — **2026–Present**
+* 🎓 Diploma in Computer Engineering — **CGPA 8.35**
+* 💻 Interested in **Software Engineering & Full-Stack Development**
 * 🌱 Currently learning **Python, DSA, Algorithms & Backend Development**
-* 🔧 Interested in **Software Engineering & Full-Stack Development**
 * 🧠 Improving **Problem Solving, OOP & Database Concepts**
-* 🚀 Building practical projects to strengthen my development skills
-* 🎯 Goal: Become a skilled **Software Engineer**
+* 🔨 Building practical projects to gain real-world development experience
+* 🎯 Goal: Become a strong and professional **Software Engineer**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+<div align="center">
 
-`C` `C++` `Python` `PHP` `JavaScript`
+### 💻 Languages
 
-### Web Development
+<img src="https://skillicons.dev/icons?i=c,cpp,python,php,js" alt="Programming Languages">
 
-`HTML` `CSS` `Bootstrap` `JavaScript` `Laravel`
+### 🌐 Web Development
 
-### Databases
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,laravel" alt="Web Development">
 
-`MySQL` `MongoDB`
+### 🗄️ Databases
 
-### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases">
 
-`Git` `GitHub` `VS Code` `Linux`
+### ⚙️ Tools & Platforms
 
-### Core Concepts
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Tools and Platforms">
 
-`DSA` `OOP` `Problem Solving` `DBMS` `Computer Networks` `Responsive Design`
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 Core Skills
 
-### 1. Portfolio Website
+<div align="center">
+
+`Data Structures & Algorithms` •
+`OOP` •
+`Problem Solving` •
+`DBMS` •
+`Computer Networks` •
+`Responsive Design` •
+`Backend Development` •
+`Full-Stack Development`
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+### 🌐 Portfolio Website
 
 Personal portfolio website showcasing my skills, projects and development journey.
 
-* **Tech:** HTML, CSS, JavaScript, Bootstrap
-* **Repository:** [Portfolio](https://github.com/omsagarka07/Portfolio)
-* **Live:** [View Portfolio](https://omsagarka07.github.io/Portfolio/)
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript` `Bootstrap`
+
+<br>
+
+<a href="https://github.com/omsagarka07/Portfolio">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github" alt="Portfolio Repository">
+</a>
+
+<a href="https://omsagarka07.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/Live%20Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Live Demo">
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### ☕ Cafe Aurora
+
+A responsive cafe website designed with a modern interface and responsive layout.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript` `Bootstrap`
+
+<br>
+
+<a href="https://github.com/omsagarka07/Cafe-Aurora">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github" alt="Cafe Aurora Repository">
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### 🌙 The Moonlit Cafe
+
+A modern cafe-themed website focused on responsive design and user experience.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript` `Bootstrap`
+
+<br>
+
+<a href="https://github.com/omsagarka07/the-moonlit-cafe">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github" alt="The Moonlit Cafe Repository">
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### 📱 Mobile Shopping
+
+A shopping website project created to practice frontend development and responsive layouts.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript` `Bootstrap`
+
+<br>
+
+<a href="https://github.com/omsagarka07/Mobile-shoping">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github" alt="Mobile Shopping Repository">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
-### 2. Cafe Aurora
+# 💼 Experience
 
-A responsive cafe website built with modern frontend technologies.
-
-* **Tech:** HTML, CSS, JavaScript, Bootstrap
-* **Repository:** [Cafe-Aurora](https://github.com/omsagarka07/Cafe-Aurora)
-
----
-
-### 3. The Moonlit Cafe
-
-A modern cafe-themed web project focused on responsive design and user experience.
-
-* **Tech:** HTML, CSS, JavaScript, Bootstrap
-* **Repository:** [The Moonlit Cafe](https://github.com/omsagarka07/the-moonlit-cafe)
-
----
-
-### 4. Mobile Shopping
-
-A mobile shopping web project developed to practice frontend development and responsive layouts.
-
-* **Tech:** HTML, CSS, JavaScript, Bootstrap
-* **Repository:** [Mobile-shoping](https://github.com/omsagarka07/Mobile-shoping)
-
----
-
-## 💼 Experience
-
-### Web Design Intern
+### 🌐 Web Design Intern
 
 Worked with:
 
@@ -104,7 +188,7 @@ Worked with:
 * Bootstrap
 * Responsive Web Design
 
-### Laravel Developer Intern
+### ⚙️ Laravel Developer Intern
 
 Worked with:
 
@@ -115,62 +199,116 @@ Worked with:
 
 ---
 
-## 📚 Currently Learning
-
-```text
-Python
-   ↓
-Data Structures & Algorithms
-   ↓
-Problem Solving
-   ↓
-Backend Development
-   ↓
-Databases
-   ↓
-Full-Stack Development
-   ↓
-Software Engineering
-```
-
----
-
-## 🎯 Career Goals
-
-My long-term goal is to become a strong **Software Engineer** with excellent programming and problem-solving skills.
-
-I am working toward:
-
-* 💻 Strong programming fundamentals
-* 🧠 Advanced DSA & Algorithms
-* 🌐 Full-Stack Development
-* ⚙️ Backend Engineering
-* 🗄️ Database Management
-* 🏗️ Real-world Software Projects
-* 🎤 Technical Interview Preparation
-* 🚀 Building production-ready applications
-
----
-
-## 📈 My Development Journey
-
-```text
-Learn → Practice → Build → Debug → Improve → Repeat
-```
-
-I believe consistent learning and practical projects are the best way to grow as a developer.
-
----
-
-## 🤝 Let's Connect
+# 📚 Currently Learning
 
 <div align="center">
 
-**Interested in technology, development and collaboration?**
+**Python**
 
-[LinkedIn](https://www.linkedin.com/in/om-sagarka/) •
-[Portfolio](https://omsagarka07.github.io/Portfolio/) •
-[GitHub](https://github.com/omsagarka07)
+⬇️
+
+**Data Structures & Algorithms**
+
+⬇️
+
+**Problem Solving**
+
+⬇️
+
+**Backend Development**
+
+⬇️
+
+**Databases**
+
+⬇️
+
+**Full-Stack Development**
+
+⬇️
+
+**Software Engineering**
+
+</div>
+
+---
+
+# 📊 GitHub Overview
+
+<div align="center">
+
+<a href="https://github.com/omsagarka07">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=omsagarka07&show_icons=true&hide_border=true&rank_icon=github" alt="Om's GitHub Stats">
+</a>
+
+<a href="https://github.com/omsagarka07">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omsagarka07&layout=compact&hide_border=true" alt="Top Languages">
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://git.io/streak-stats">
+<img src="https://streak-stats.demolab.com?user=omsagarka07&hide_border=true" alt="GitHub Streak">
+</a>
+
+</div>
+
+---
+
+# 🎯 Career Goals
+
+I am continuously working toward becoming a professional **Software Engineer**.
+
+My focus areas are:
+
+* 💻 Strong Programming Fundamentals
+* 🧠 Advanced DSA & Algorithms
+* ⚙️ Backend Engineering
+* 🌐 Full-Stack Development
+* 🗄️ Database Management
+* 🏗️ Real-World Projects
+* 🎤 Technical Interview Preparation
+* 🚀 Production-Ready Software
+
+---
+
+# 📈 My Development Philosophy
+
+<div align="center">
+
+### Learn → Practice → Build → Debug → Improve → Repeat 🔁
+
+</div>
+
+I believe consistent learning, practical projects, and problem solving are the foundation of becoming a better developer.
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+I'm always interested in **learning, building, collaborating and connecting with other developers.**
+
+<br>
+
+<a href="https://www.linkedin.com/in/om-sagarka/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+</a>
+
+<a href="https://omsagarka07.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Explore-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+</a>
+
+<a href="https://github.com/omsagarka07">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub">
+</a>
+
+<br><br>
 
 📧 **[omsagaraka5050@gmail.com](mailto:omsagaraka5050@gmail.com)**
 
@@ -180,8 +318,8 @@ I believe consistent learning and practical projects are the best way to grow as
 
 <div align="center">
 
-### 💡 "Build. Learn. Improve. Repeat."
+### 💡 Build. Learn. Improve. Repeat.
 
-⭐ Thanks for visiting my profile!
+⭐ **Thanks for visiting my profile!**
 
 </div>
