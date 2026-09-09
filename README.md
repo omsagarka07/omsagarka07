@@ -1,10 +1,9 @@
-<div align="center">
+  
+# 👋 Hello, I'm Om Sagarka
 
-# 👋 Hi, I'm Om Sagarka
+### 💻 Computer Engineering Student | Aspiring Software Engineer
 
-### 💻 Computer Engineering Student • Aspiring Software Engineer
-
-**Building projects • Solving problems • Learning every day**
+**Building Projects • Solving Problems • Learning Every Day**
 
 <p>
   <a href="https://github.com/omsagarka07">
@@ -29,293 +28,109 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Computer Engineering student** focused on building a strong foundation in software development and problem solving.
+I'm a **Computer Engineering student** passionate about building a strong foundation in software development, problem-solving, and full-stack engineering. I love transforming ideas into functional, user-friendly applications.
 
-I enjoy working with **programming languages, web technologies, databases, and backend frameworks**, while turning what I learn into practical projects.
-
-* 🎓 Computer Engineering — Diploma-to-Degree
-* 💻 Aspiring Software Engineer
-* 🐍 Improving Python & programming fundamentals
-* 🧠 Learning Data Structures & Algorithms
-* 🌐 Interested in Web & Full-Stack Development
-* 🗄️ Exploring Databases & Backend Development
-* 🛠️ Building practical software projects
-* 📚 Learning → Building → Improving
+- 🎓 Computer Engineering — Diploma-to-Degree (CGPA: 8.35)
+- 💻 Aspiring Software Engineer
+- 🐍 Deepening Python & programming fundamentals
+- 🧠 Learning Data Structures & Algorithms
+- 🌐 Full-Stack Web Development Enthusiast
+- 🗄️ Exploring Databases & Backend Architecture
+- 🛠️ Building practical, real-world projects
+- 📚 Learning → Building → Improving — always
 
 ---
 
-# ⚡ Tech Stack
+## ⚡ Tech Stack
 
 ### 💻 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,php" />
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
 ### 🌐 Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 ### ⚙️ Backend & Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=laravel,mysql,mongodb" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ### 🧰 Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-### 🧠 Core Concepts
+### 🧠 Core Competencies
 
-`DSA` • `OOP` • `Problem Solving` • `DBMS` • `Computer Networks` • `Responsive Design`
-
----
-
-# 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🍽️ Rangoli Restaurant Management
-
-Full-stack restaurant management system built with Laravel, PHP and MySQL.
-
-**Tech:**
-`Laravel` `PHP` `MySQL` `HTML` `CSS` `JavaScript` `Bootstrap`
-
-🔗 **[View Repository](https://github.com/omsagarka07/Rangoli-Restaurant-Management-System)**
-
-</td>
-
-<td width="50%">
-
-### 🌐 Portfolio
-
-Personal portfolio website showcasing my profile, skills, education, experience and projects.
-
-**Tech:**
-`HTML`
-
-🔗 **[View Repository](https://github.com/omsagarka07/Portfolio)**
-🌍 **[Live Website](https://omsagarka07.github.io/Portfolio/)**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ☕ Cafe-Aurora
-
-Responsive cafe website with a clean and modern interface.
-
-**Tech:**
-`HTML` `CSS` `JavaScript` `Bootstrap`
-
-🔗 **[View Repository](https://github.com/omsagarka07/Cafe-Aurora)**
-
-</td>
-
-<td width="50%">
-
-### 🌙 The Moonlit Cafe
-
-Simple cafe website created as part of my web development practice.
-
-**Tech:**
-`HTML`
-
-🔗 **[View Repository](https://github.com/omsagarka07/the-moonlit-cafe)**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📱 Mobile Shopping
-
-Web-based mobile shopping project.
-
-**Tech:**
-`HTML`
-
-🔗 **[View Repository](https://github.com/omsagarka07/Mobile-shoping)**
-
-</td>
-
-<td width="50%">
-
-### 👤 GitHub Profile
-
-My personal GitHub profile and developer portfolio README.
-
-**Focus:**
-`Projects` `Skills` `Learning` `Development`
-
-🔗 **[View Repository](https://github.com/omsagarka07/omsagarka07)`
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Data_Structures-FF6F00?style=for-the-badge&logo=algorithms&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/DBMS-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer_Networks-009639?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Responsive_Design-0F9D58?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</p>
 
 ---
 
-# 💼 Experience
+## 🚀 Featured Projects
+
+| Project | Tech Stack | Links |
+|---------|------------|-------|
+| 🍽️ **Rangoli Restaurant Management** | `Laravel` `PHP` `MySQL` `Bootstrap` | [🔗 Repo](https://github.com/omsagarka07/Rangoli-Restaurant-Management-System) |
+| 🌐 **Portfolio** | `HTML` `CSS` | [🔗 Repo](https://github.com/omsagarka07/Portfolio) · [🌍 Live](https://omsagarka07.github.io/Portfolio/) |
+| ☕ **Cafe-Aurora** | `HTML` `CSS` `JavaScript` `Bootstrap` | [🔗 Repo](https://github.com/omsagarka07/Cafe-Aurora) |
+| 🌙 **The Moonlit Cafe** | `HTML` | [🔗 Repo](https://github.com/omsagarka07/the-moonlit-cafe) |
+| 📱 **Mobile Shopping** | `HTML` | [🔗 Repo](https://github.com/omsagarka07/Mobile-shoping) |
+
+---
+
+## 💼 Experience
 
 ### 🌐 Web Design Intern
-
-Worked with:
-
-`HTML` • `CSS` • `JavaScript` • `Bootstrap`
-
-**Areas**
-
-* Responsive web design
-* Frontend development
-* UI implementation
-* Cross-device layouts
+- **Technologies:** `HTML` `CSS` `JavaScript` `Bootstrap`
+- **Focus Areas:** Responsive web design, frontend development, UI implementation, cross-device layouts
 
 ### ⚙️ Laravel Developer Intern
-
-Worked with:
-
-`PHP` • `Laravel` • `MySQL`
-
-**Areas**
-
-* Backend development
-* Database integration
-* Web application development
-* Frontend/backend integration
+- **Technologies:** `PHP` `Laravel` `MySQL`
+- **Focus Areas:** Backend development, database integration, web app development, frontend/backend integration
 
 ---
 
-# 🎓 Education
+## 🎓 Education
 
-### 🎓 B.E. Computer Engineering
-
-**Dr. V. R. Godhaniya College of Engineering & Technology**
-
-`2026 – Present`
-
-**Program:** Diploma-to-Degree
-
-### 🎓 Diploma in Computer Engineering
-
-**Government Polytechnic, Porbandar**
-
-`Completed 2026`
-
-**CGPA:** `8.35`
+| Degree | Institution | Year | CGPA |
+|--------|-------------|------|------|
+| **B.E. Computer Engineering** | Dr. V. R. Godhaniya College of Engineering & Technology | 2026–Present | — |
+| **Diploma in Computer Engineering** | Government Polytechnic, Porbandar | Completed 2026 | 8.35 |
 
 ---
 
-# 📚 Currently Learning
+## 📚 My Learning Path
 
-```text
-Python
-   ↓
-Data Structures & Algorithms
-   ↓
-Problem Solving
-   ↓
-Backend Development
-   ↓
-Databases
-   ↓
-Full-Stack Development
-   ↓
-Software Engineering
-```
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=omsagarka07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omsagarka07&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=omsagarka07&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 📈 My Development Journey
-
-<div align="center">
-
-**Learn → Build → Solve → Improve → Engineer**
-
-</div>
-
-I'm continuously working on:
-
-| Area               | Focus                               |
-| ------------------ | ----------------------------------- |
-| 💻 Programming     | C • C++ • Python • PHP              |
-| 🧠 Problem Solving | DSA • Algorithms • Logical Thinking |
-| 🌐 Development     | Frontend • Backend • Full-Stack     |
-| 🗄️ Database       | MySQL • MongoDB • DBMS              |
-| ⚙️ Engineering     | OOP • Software Engineering          |
-| 🚀 Projects        | Practical & Real-World Applications |
-
----
-
-# 🎯 Career Focus
-
-### Aspiring Software Engineer
-
-My current focus is to develop strong skills in:
-
-**Programming + DSA + Problem Solving + Web Development + Backend + Databases + Software Engineering**
-
-> **My goal is simple: become a developer who can understand problems, design solutions, and build useful software.**
-
----
-
-# 🌐 Let's Connect
-
-<div align="center">
-
-<a href="https://omsagarka07.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-2F80ED?style=for-the-badge" />
-</a>
-
-<a href="https://www.linkedin.com/in/om-sagarka/">
-<img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge" />
-</a>
-
-<a href="https://github.com/omsagarka07">
-<img src="https://img.shields.io/badge/💻%20GitHub-Follow-181717?style=for-the-badge" />
-</a>
-
-<a href="mailto:omsagaraka5050@gmail.com">
-<img src="https://img.shields.io/badge/✉️%20Email-Contact-EA4335?style=for-the-badge" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Learn. Build. Solve. Improve.
-
-**Thanks for visiting my GitHub profile! ⭐**
-
-</div>
+```mermaid
+graph LR
+    A[Python] --> B[Data Structures]
+    B --> C[Algorithms]
+    C --> D[Problem Solving]
+    D --> E[Backend Development]
+    E --> F[Databases]
+    F --> G[Full-Stack Development]
+    G --> H[Software Engineering]
